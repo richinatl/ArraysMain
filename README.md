@@ -9,6 +9,8 @@ I really enjoy about software development, there's always something new to learn
 ### Technologies
 Java built on the Eclipse IDE
 
+---
+
 
 <br>
 
